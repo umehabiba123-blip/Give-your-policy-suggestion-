@@ -95,7 +95,6 @@
     </select>
     <textarea id="opinion" placeholder="Write your policy suggestion here..." rows="4"></textarea>
     <button onclick="submitOpinion()">Submit</button>
-
     <h2>View Suggestions</h2>
     <select id="viewDept" onchange="viewSuggestions()">
         <option value="">Select Department</option>
@@ -107,8 +106,7 @@
         <option>Energy</option>
         <option>Environment</option>
         <option>Economy</option>
-    </select>
-    
+    </select>    
     <div class="suggestions" id="suggestionsList"></div>
 </div>
 
