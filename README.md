@@ -165,44 +165,7 @@
         viewSuggestions();
     }
 </script>
-
-
-<meta charset="UTF-8">
-<meta name="viewport" >
-    body {
-        font-family: Arial, sans-serif;
-        background-color: #ffffff;
-        color: #004d26;
-        margin: 0;
-        padding: 0;
-        text-align: center;
-    }
-    header {
-        background-color: #006633;
-        color: white;
-        padding: 20px;
-        font-size: 1.8em;
-        font-weight: bold;
-    }
-    nav {
-        background-color: #004d26;
-        padding: 10px;
-    }
-    nav a {
-        color: white;
-        margin: 0 15px;
-        text-decoration: none;
-        font-weight: bold;
-    }
-    nav a:hover {
-        text-decoration: underline;
-    }
-    .content {
-        max-width: 800px;
-        margin: 40px auto;
-        padding: 20px;
-        font-size: 1.2em;
-    }
+    
 </style>
 </head>
 <body>
