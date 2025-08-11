@@ -77,7 +77,7 @@
 <header>Shape Pakistan’s Future — Your Voice, Your Power</header>
 <nav>
     <a href="index.html">Home</a>
-    <a href="about.html">About. html">About Us<a>
+<a href="About.html">About Us</a>
 </nav>
 
 <div class="container">
