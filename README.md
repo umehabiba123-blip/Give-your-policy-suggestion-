@@ -207,19 +207,5 @@
 </head>
 <body>
 
-<header>About Citizen Policy Portal</header>
-<nav>
-    <a href="index.html">Home</a>
-    <a href="about.html">About Us</a>
-</nav>
 
-<div class="content">
-    <p>We believe every citizen of Pakistan has the right to share ideas for a better future.</p>
-    <p>Your opinions matter and should be valued by policymakers.</p>
-    <p>This platform is your voice — a space to share and improve policies together.</p>
-    <p>By participating, you are helping shape the Pakistan of tomorrow.</p>
-</div>
-
-</body>
-</html>
 
