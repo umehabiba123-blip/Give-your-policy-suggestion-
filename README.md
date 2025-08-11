@@ -168,43 +168,5 @@
 </script>
 
 </body>
-</html>    }
-    nav a:hover {
-        text-decoration: underline;
-    }
-    .container {
-        max-width: 800px;
-        margin: 20px auto;
-        padding: 15px;
-    }
-    select, textarea, button {
-        width: 100%;
-        padding: 10px;
-        margin-top: 10px;
-        font-size: 1em;
-        border: 1px solid #ccc;
-        border-radius: 5px;
-    }
-    button {
-        background-color: #006633;
-        color: white;
-        cursor: pointer;
-        border: none;
-    }
-    button:hover {
-        background-color: #004d26;
-    }
-    .suggestions {
-        margin-top: 20px;
-    }
-    .suggestion {
-        border: 1px solid #ccc;
-        border-left: 5px solid #006633;
-        padding: 10px;
-        margin-bottom: 10px;
-        background: #f9f9f9;
-    }
-    .stars {
-        color: gold;
-        cursor: pointer;
-    }
+</html>    
+        
