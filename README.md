@@ -195,6 +195,5 @@
         viewSuggestions();
     }
 </script>
-
 </body>
 </html>
